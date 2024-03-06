@@ -1,4 +1,4 @@
-//print the all the countries which belongs to Asia region
+ //print the all the countries which belongs to Asia region
 resu = result.filter( (ele)=>ele.region ==="Asia").map((ele)=›ele.name);
 console.log(resu);
 //Print all the counties details whose population is less than 2 lakhs
